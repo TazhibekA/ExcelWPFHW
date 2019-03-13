@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\bin\Debug\ExcelWPF.exe.config
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\bin\Debug\ExcelWPF.exe
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\bin\Debug\ExcelWPF.pdb
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF_MarkupCompile.cache
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF_MarkupCompile.lref
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.g.resources
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.Properties.Resources.resources
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.exe
+C:\Users\User\source\repos\ExcelWPF\ExcelWPF\obj\Debug\ExcelWPF.pdb
